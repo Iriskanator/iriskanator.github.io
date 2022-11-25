@@ -95,6 +95,10 @@
 
 Работа с Cisco Packet Tracer
 
+1. **[Отчет](https://github.com/Iriskanator/iriskanator.github.io/blob/main/Cisco/IT_LR3_Rozanova_IDM-22-02.pdf)**
+2. **[Сценарий](https://github.com/Iriskanator/iriskanator.github.io/blob/main/Cisco/Сценарий%203%20для%20CPT.pka)**
+3. **[Методические указания](https://github.com/Iriskanator/iriskanator.github.io/blob/main/Cisco/Методические%20указания%20к%20ЛР3.pdf)**
+
 
 ## ✅ Экзаменационный билет №17
 
