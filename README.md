@@ -105,3 +105,5 @@
 ## ✅ Экзаменационный билет №17
 
 Ответ на экзаменационный билет доступен по ссылке: **[билет №17](https://github.com/stankin/inet-2022/wiki/exam17)**
+
+**[Committed](https://github.com/stankin/inet-2022/wiki/exam17/_compare/c9738fdc7cbb6e2c55b1547aefb68f2f57c09a77)**
